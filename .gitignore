@@ -1,0 +1,5 @@
+# ignore ALL jupyter checkpoints files
+*.ipynb_checkpoints
+
+# ignore ALL files in ANY directory named intVenv
+intVenv/
